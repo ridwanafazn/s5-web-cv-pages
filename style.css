@@ -20,7 +20,7 @@
     text-align: center;
   }
   .navbar {
-      background-color: #b1a296;
+      background-color: #ead4c3;
       border-radius: 10px;
       padding: 10px;
       display: flex;
@@ -59,16 +59,12 @@
       cursor: pointer;
     }
     
-    .nav-button:hover {
-      background-color: #379683;
-    }
-    
   
   h1{
     margin: 5px 0;
     font-weight: bold;
     color: #000000;
-    background-color: #b1a296;
+    background-color: #ead4c3;
     
     border-radius: 10px;
   }
@@ -77,16 +73,16 @@
     margin: 5px 0;
     font-weight: bold; /* Membuat teks pada judul menjadi tebal */
     color: #000000;
-    
   }
   h3 {
     margin: 5px 0;
     font-weight: bold; /* Membuat teks pada judul menjadi tebal */
     color: #000000;
-    background-color: #b1a296;
+    background-color: #ead4c3;
 
     border-radius: 10px;
   }
+  
   
   img {
     border: 3px solid #333;
@@ -95,7 +91,7 @@
   
   section {
     margin-top: 20px;
-    background-color: #379683;
+    background-color: #5ae8cc;
     padding: 20px;
     border-radius: 10px;
   }
@@ -148,7 +144,7 @@
   footer {
     text-align: center;
     margin-top: 20px;
-    background-color: #b1a296;
+    background-color: #ead4c3;
     padding: 10px;
     border-radius: 10px;
   }
